@@ -1,0 +1,100 @@
+{
+    "animals": [{
+            "id": 1,
+            "name": "Менко",
+            "type": "куче",
+            "age": 1,
+            "color": "бял",
+            "favFood": "гащи",
+            "imgUrl": "https://www.randomdoggiegenerator.com/randomdoggie.php"
+        },
+        {
+            "id": 2,
+            "name": "Конче",
+            "type": "коте",
+            "age": 7,
+            "color": "черен",
+            "favFood": "мишки",
+            "imgUrl": "http://www.randomkittengenerator.com/cats/rotator.php"
+        },
+        {
+            "id": 3,
+            "name": "Рони",
+            "type": "коте",
+            "age": 5,
+            "color": "кафяв",
+            "favFood": "сланина",
+            "imgUrl": "http://www.randomkittengenerator.com/cats/rotator.php"
+        },
+        {
+            "id": 5,
+            "name": "Рени",
+            "type": "костенурка",
+            "age": 77,
+            "color": "жълт",
+            "favFood": "минзухари",
+            "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0e/8a/ef/4e/wow-big-turtle-park-in.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Менко",
+            "type": "куче",
+            "age": 1,
+            "color": "бял",
+            "favFood": "гащи",
+            "imgUrl": "https://www.randomdoggiegenerator.com/randomdoggie.php"
+        },
+        {
+            "id": 4,
+            "name": "Бошко",
+            "type": "коте",
+            "age": 2,
+            "color": "розов",
+            "favFood": "мишки",
+            "imgUrl": "http://www.randomkittengenerator.com/cats/rotator.php"
+        }
+    ],
+    "adopters": [{
+            "id": 1,
+            "name": "Пони Котев",
+            "age": 21,
+            "city": "Plovdiv",
+            "gender": "M"
+        },
+        {
+            "id": 2,
+            "name": "Гергана Костадинова",
+            "age": 23,
+            "city": "Sofia",
+            "gender": "F"
+        },
+        {
+            "id": 3,
+            "name": "Керко Манолов",
+            "age": 33,
+            "city": "Varna",
+            "gender": "M"
+        },
+        {
+            "id": 1,
+            "name": "Пони Котев",
+            "age": 21,
+            "city": "Plovdiv",
+            "gender": "M"
+        },
+        {
+            "id": 2,
+            "name": "Гергана Костадинова",
+            "age": 23,
+            "city": "Sofia",
+            "gender": "F"
+        },
+        {
+            "id": 3,
+            "name": "Керко Манолов",
+            "age": 33,
+            "city": "Varna",
+            "gender": "M"
+        }
+    ]
+}
